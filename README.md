@@ -1,3 +1,4 @@
+
 # The Whatweb tool in kali to test a host and webserver for reconnaissance purposes
 Majority of targets to test will be webservers - Whatweb is a good tool for reconnaissance.
 ## Overview: We will use whatweb to gather information from my metasploitable VM and a public test server out on the internet.
@@ -9,3 +10,11 @@ First, I searched and chose whatweb
 You can see the many options whatweb offers and that's not all. Many more followed, but the screen shot doesn't show everything.
 
 <img width="675" height="730" alt="2" src="https://github.com/user-attachments/assets/7d2b8f01-e389-4245-80a8-e4f3dd405a15" />
+
+The first thing I want to look at is my metasploitable VM with the address 10.0.2.5:
+
+<img width="179" height="43" alt="3" src="https://github.com/user-attachments/assets/412fc28e-e9a8-45e1-aeb9-a9aa6ee95d22" />
+
+Some of the info given is that it's running on an Apache server [2.2.8] running PHP [5.2.4] and the title shows [metasploitable]
+
+<img width="1600" height="48" alt="4" src="https://github.com/user-attachments/assets/35b3d1b0-c8a1-435a-bb71-edcdb9a9d7e6" />
