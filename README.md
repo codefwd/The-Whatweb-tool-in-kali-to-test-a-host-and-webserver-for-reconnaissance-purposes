@@ -18,3 +18,17 @@ The first thing I want to look at is my metasploitable VM with the address 10.0.
 Some of the info given is that it's running on an Apache server [2.2.8] running PHP [5.2.4] and the title shows [metasploitable]
 
 <img width="1600" height="48" alt="4" src="https://github.com/user-attachments/assets/35b3d1b0-c8a1-435a-bb71-edcdb9a9d7e6" />
+
+We will now look at a public test server out on the internet to see what information it gives.
+
+
+<img width="375" height="53" alt="5" src="https://github.com/user-attachments/assets/ec907912-be39-4fd8-88e5-6fb1e4d8f1e0" />
+
+
+The information we get back shows an [Apache-Coyote/1.1], JQuery[1.8.2] and the title [Zero - Personal banking - loans - credit cards]
+
+<img width="1625" height="70" alt="6" src="https://github.com/user-attachments/assets/def4ee82-e50a-4690-ba3c-993e008f221b" />
+
+
+
+**In conclusion, the whatweb tool in Kali Linux is a valuable reconnaissance utility used to get information on hosts and/or web servers.**
