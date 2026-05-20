@@ -1,5 +1,5 @@
 
-# The Whatweb tool in kali to test a host and webserver for reconnaissance purposes
+# The whatweb tool in kali to test a host and webserver for reconnaissance purposes
 Majority of targets to test will be webservers - Whatweb is a good tool for reconnaissance.
 ## Overview: We will use whatweb to gather information from my metasploitable VM and a public test server out on the internet.
 
