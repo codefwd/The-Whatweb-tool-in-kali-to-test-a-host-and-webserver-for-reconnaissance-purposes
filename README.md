@@ -34,5 +34,3 @@ The information we get back shows an [Apache-Coyote/1.1], JQuery[1.8.2] and the 
 **In conclusion, the whatweb tool in Kali Linux is a valuable reconnaissance utility used to get information on hosts and/or web servers.**
 
 
-
-<img width="759" height="583" alt="53" src="https://github.com/user-attachments/assets/cbe51f43-6184-4785-893f-bad855dc0518" />
